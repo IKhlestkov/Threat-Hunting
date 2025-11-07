@@ -59,9 +59,9 @@ downloaded 347 KB
 | Welcome to swirl! Please sign in. If you've been here before, use the same name as you did then.
 | If you are new, call yourself something unique.
 
-What shall I call you? h4rd
+What shall I call you? IKhlestkov
 
-| Thanks, h4rd. Let's cover a couple of quick housekeeping items before we begin our first lesson.
+| Thanks, IKhlestkov. Let's cover a couple of quick housekeeping items before we begin our first lesson.
 | First of all, you should know that when you see '...', that means you should press Enter when you
 | are done reading and ready to continue.
 
@@ -1211,7 +1211,7 @@ Warning in dir.create(file.path("testdir2", "testdir3"), recursive = TRUE) :
 | c(my_char, "your_name_here"). Place your name in double quotes where I've put "your_name_here".
 | Try it now, storing the result in a new variable called my_name.
 
-> my_name <- c(my_char, "h4rd")
+> my_name <- c(my_char, "IKhlestkov")
 
 | You got it!
 
@@ -1219,7 +1219,7 @@ Warning in dir.create(file.path("testdir2", "testdir3"), recursive = TRUE) :
 | Take a look at the contents of my_name.
 
 > my_name 
-[1] "My"   "name" "is"   "h4rd"
+[1] "My"   "name" "is"   "IKhlestkov"
 
 | Perseverance, that's the answer.
 
@@ -1228,7 +1228,7 @@ Warning in dir.create(file.path("testdir2", "testdir3"), recursive = TRUE) :
 | character string. Don't forget to say collapse = " "!
 
 > paste(my_name, collapse = " ")
-[1] "My name is h4rd"
+[1] "My name is IKhlestkov"
 
 | Keep up the great work!
 
