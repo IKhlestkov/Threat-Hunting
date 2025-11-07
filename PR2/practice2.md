@@ -1,11 +1,6 @@
----
-title: "Основы обработки данных с помощью R и Dplyr"
-subtitle: "Отчет по практике 2"
-author: "Baby.Collector@yandex.ru"
-format: 
-  md:
-    output-file: README.md
----
+#PR_2
+
+Baby.Collector@yandex.ru
 
 ## Цель работы
 
