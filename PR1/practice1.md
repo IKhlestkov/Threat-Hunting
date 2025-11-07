@@ -1,11 +1,6 @@
----
-title: "R Programming Basic Building Blocks"
-subtitle: "Отчет по практике 1"
-author: "Baby.Collector@yandex.ru"
-format: 
-  md:
-    output-file: README.md
----
+#PR_1
+
+Baby.Collector@yandex.ru
 
 ## Цель работы
 
